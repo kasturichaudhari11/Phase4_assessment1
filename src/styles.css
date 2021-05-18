@@ -1,1 +1,25 @@
-/* You can add global styles to this file, and also import other style files */
+.option{
+    font-size:25px;
+    margin:3px;
+}
+    #quiz .options input[type=checkbox] {
+        height:22px;
+        width:22px;
+    }
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.label-pill{
+    padding-right: .6em;
+    padding-left: .6em;
+    border-radius: 15rem;
+    background-color: tomato;
+    font-weight:bold;
+    color: white;
+}
+
+.td-padded{
+    padding: 10px;
+}

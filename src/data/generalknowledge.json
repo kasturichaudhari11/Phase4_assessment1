@@ -1,0 +1,307 @@
+{
+    "id": 1,
+    "name": "General Knowledge Quiz",
+    "description": "Basic Multiple Choice Questions",
+    "questions": [
+        {
+            "id": 10,
+            "name": "How many rings are on the Olympic flag?",
+            "options": [
+                {
+                    "id": 100,
+                    "questionId": 10,
+                    "name": "None",
+                    "isAnswer": false
+                },
+                {
+                    "id": 101,
+                    "questionId": 10,
+                    "name": "4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 102,
+                    "questionId": 10,
+                    "name": "5",
+                    "isAnswer": true
+                },
+                {
+                    "id": 103,
+                    "questionId": 10,
+                    "name": "7",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "In darts, what's the most points you can score with a single throw?",
+            "options": [
+                {
+                    "id": 110,
+                    "questionId": 11,
+                    "name": "20",
+                    "isAnswer": false
+                },
+                {
+                    "id": 111,
+                    "questionId": 11,
+                    "name": "60",
+                    "isAnswer": true
+                },
+                {
+                    "id": 112,
+                    "questionId": 11,
+                    "name": "30",
+                    "isAnswer": false
+                },
+                {
+                    "id": 113,
+                    "questionId": 11,
+                    "name": "100",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "How many holes are on a standard bowling ball?",
+            "options": [
+                {
+                    "id": 120,
+                    "questionId": 12,
+                    "name": "3",
+                    "isAnswer": true
+                },
+                {
+                    "id": 121,
+                    "questionId": 12,
+                    "name": "4",
+                    "isAnswer": false
+                },
+                {
+                    "id": 122,
+                    "questionId": 12,
+                    "name": "5",
+                    "isAnswer": false
+                },
+                {
+                    "id": 123,
+                    "questionId": 12,
+                    "name": "10",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "In which ocean is Madagascar?",
+            "options": [
+                {
+                    "id": 130,
+                    "questionId": 13,
+                    "name": "Pacific",
+                    "isAnswer": false
+                },
+                {
+                    "id": 131,
+                    "questionId": 13,
+                    "name": "Atlantic",
+                    "isAnswer": false
+                },
+                {
+                    "id": 132,
+                    "questionId": 13,
+                    "name": "Indian",
+                    "isAnswer": true
+                },
+                {
+                    "id": 133,
+                    "questionId": 13,
+                    "name": "Arctic",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Which star sign is the first sign of the zodiac?",
+            "options": [
+                {
+                    "id": 140,
+                    "questionId": 14,
+                    "name": "Pisces",
+                    "isAnswer": false
+                },
+                {
+                    "id": 141,
+                    "questionId": 14,
+                    "name": "Capricon",
+                    "isAnswer": false
+                },
+                {
+                    "id": 142,
+                    "questionId": 14,
+                    "name": "Taurus",
+                    "isAnswer": false
+                },
+                {
+                    "id": 143,
+                    "questionId": 14,
+                    "name": "Aries",
+                    "isAnswer": true
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The Great Barrier Reef lies off the coast of which country?",
+            "options": [
+                {
+                    "id": 150,
+                    "questionId": 15,
+                    "name": "Great Britain",
+                    "isAnswer": false
+                },
+                {
+                    "id": 151,
+                    "questionId": 15,
+                    "name": "Australia",
+                    "isAnswer": true
+                },
+                {
+                    "id": 152,
+                    "questionId": 15,
+                    "name": "United States",
+                    "isAnswer": false
+                },
+                {
+                    "id": 153,
+                    "questionId": 15,
+                    "name": "India",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "In Tolkien’s ‘The Hobbit’, what type of fictional creature is Smaug?",
+            "options": [
+                {
+                    "id": 160,
+                    "questionId": 16,
+                    "name": "Hobbit",
+                    "isAnswer": false
+                },
+                {
+                    "id": 161,
+                    "questionId": 16,
+                    "name": "Elf",
+                    "isAnswer": false
+                },
+                {
+                    "id": 162,
+                    "questionId": 16,
+                    "name": "Dwarf",
+                    "isAnswer": false
+                },
+                {
+                    "id": 163,
+                    "questionId": 16,
+                    "name": "Dragon",
+                    "isAnswer": true
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "What is the closest planet to our solar system's sun?",
+            "options": [
+                {
+                    "id": 170,
+                    "questionId": 17,
+                    "name": "Venus",
+                    "isAnswer": false
+                },
+                {
+                    "id": 171,
+                    "questionId": 17,
+                    "name": "Mercury",
+                    "isAnswer": true
+                },
+                {
+                    "id": 172,
+                    "questionId": 17,
+                    "name": "Mars",
+                    "isAnswer": false
+                },
+                {
+                    "id": 173,
+                    "questionId": 17,
+                    "name": "Earth",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Who discovered an antibiotic substance “penicillin”?",
+            "options": [
+                {
+                    "id": 180,
+                    "questionId": 18,
+                    "name": "Alfred Nobel",
+                    "isAnswer": false
+                },
+                {
+                    "id": 181,
+                    "questionId": 18,
+                    "name": "Issac Newton",
+                    "isAnswer": false
+                },
+                {
+                    "id": 182,
+                    "questionId": 18,
+                    "name": "Darwin",
+                    "isAnswer": false
+                },
+                {
+                    "id": 183,
+                    "questionId": 18,
+                    "name": "Alexander Fleming",
+                    "isAnswer": true
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Who built world's first nuclear plant?",
+            "options": [
+                {
+                    "id": 190,
+                    "questionId": 19,
+                    "name": "Russia",
+                    "isAnswer": true
+                },
+                {
+                    "id": 191,
+                    "questionId": 19,
+                    "name": "United States",
+                    "isAnswer": false
+                },
+                {
+                    "id": 192,
+                    "questionId": 19,
+                    "name": "Germany",
+                    "isAnswer": false
+                },
+                {
+                    "id": 193,
+                    "questionId": 19,
+                    "name": "Japan",
+                    "isAnswer": false
+                }
+            ]
+        }
+    ]
+}

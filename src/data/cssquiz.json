@@ -1,0 +1,307 @@
+{
+    "id": 2,
+    "name": "CSS Quiz",
+    "description": "Basic CSS Multiple Choice Questions",
+    "questions": [
+        {
+            "id": 10,
+            "name": "What does CSS stand for?",
+            "options": [
+                {
+                    "id": 100,
+                    "questionId": 10,
+                    "name": "Creative Style Sheets",
+                    "isAnswer": false
+                },
+                {
+                    "id": 101,
+                    "questionId": 10,
+                    "name": "Colorful Style Sheets",
+                    "isAnswer": false
+                },
+                {
+                    "id": 102,
+                    "questionId": 10,
+                    "name": "Cascading Style Sheets",
+                    "isAnswer": true
+                },
+                {
+                    "id": 103,
+                    "questionId": 10,
+                    "name": "Computer Style Sheets",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "What is the correct HTML for referring to an external style sheet?",
+            "options": [
+                {
+                    "id": 110,
+                    "questionId": 11,
+                    "name": "<stylesheet>mystyle.css</stylesheet>",
+                    "isAnswer": false
+                },
+                {
+                    "id": 111,
+                    "questionId": 11,
+                    "name": "<style src=\"mystyle.css\"/>",
+                    "isAnswer": false
+                },
+                {
+                    "id": 112,
+                    "questionId": 11,
+                    "name": "<link rel=\"stylesheet\" type=\"text/css\" href=\"mystyle.css\">",
+                    "isAnswer": true
+                },
+                {
+                    "id": 113,
+                    "questionId": 11,
+                    "name": "None of above",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Which HTML attribute is used to define inline styles?",
+            "options": [
+                {
+                    "id": 120,
+                    "questionId": 12,
+                    "name": "js",
+                    "isAnswer": false
+                },
+                {
+                    "id": 121,
+                    "questionId": 12,
+                    "name": "styles",
+                    "isAnswer": false
+                },
+                {
+                    "id": 122,
+                    "questionId": 12,
+                    "name": "script",
+                    "isAnswer": false
+                },
+                {
+                    "id": 123,
+                    "questionId": 12,
+                    "name": "style",
+                    "isAnswer": true
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Which is the correct CSS syntax?",
+            "options": [
+                {
+                    "id": 130,
+                    "questionId": 13,
+                    "name": "body {color: black}",
+                    "isAnswer": true
+                },
+                {
+                    "id": 131,
+                    "questionId": 13,
+                    "name": "{body;color:black}",
+                    "isAnswer": false
+                },
+                {
+                    "id": 132,
+                    "questionId": 13,
+                    "name": "{body:color=black(body}",
+                    "isAnswer": false
+                },
+                {
+                    "id": 133,
+                    "questionId": 13,
+                    "name": "body:color=black",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "How do you change the text color of an element?",
+            "options": [
+                {
+                    "id": 140,
+                    "questionId": 14,
+                    "name": "text-color=",
+                    "isAnswer": false
+                },
+                {
+                    "id": 141,
+                    "questionId": 14,
+                    "name": "font-color:",
+                    "isAnswer": false
+                },
+                {
+                    "id": 142,
+                    "questionId": 14,
+                    "name": "color:",
+                    "isAnswer": true
+                },
+                {
+                    "id": 143,
+                    "questionId": 14,
+                    "name": "text-color:",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Which CSS property controls the text size?",
+            "options": [
+                {
+                    "id": 150,
+                    "questionId": 15,
+                    "name": "font-size",
+                    "isAnswer": true
+                },
+                {
+                    "id": 151,
+                    "questionId": 15,
+                    "name": "font-style",
+                    "isAnswer": false
+                },
+                {
+                    "id": 152,
+                    "questionId": 15,
+                    "name": "text-style",
+                    "isAnswer": false
+                },
+                {
+                    "id": 153,
+                    "questionId": 15,
+                    "name": "text-size",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "How do you display hyperlinks without an underline?",
+            "options": [
+                {
+                    "id": 160,
+                    "questionId": 16,
+                    "name": "a {text-decoration:no underline}",
+                    "isAnswer": false
+                },
+                {
+                    "id": 161,
+                    "questionId": 16,
+                    "name": "a {decoration:no underline}",
+                    "isAnswer": false
+                },
+                {
+                    "id": 162,
+                    "questionId": 16,
+                    "name": "a {text-decoration:none}",
+                    "isAnswer": true
+                },
+                {
+                    "id": 163,
+                    "questionId": 16,
+                    "name": "a {underline:none}",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "How do you make a list that lists its items with squares?",
+            "options": [
+                {
+                    "id": 170,
+                    "questionId": 17,
+                    "name": "list-type: square",
+                    "isAnswer": false
+                },
+                {
+                    "id": 171,
+                    "questionId": 17,
+                    "name": "type: square",
+                    "isAnswer": false
+                },
+                {
+                    "id": 172,
+                    "questionId": 17,
+                    "name": "type: 2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 173,
+                    "questionId": 17,
+                    "name": "list-style-type: square",
+                    "isAnswer": true
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Which selector is used to specify a rule to bind a particular unique element?",
+            "options": [
+                {
+                    "id": 180,
+                    "questionId": 18,
+                    "name": "name",
+                    "isAnswer": false
+                },
+                {
+                    "id": 181,
+                    "questionId": 18,
+                    "name": "class",
+                    "isAnswer": false
+                },
+                {
+                    "id": 182,
+                    "questionId": 18,
+                    "name": "tag",
+                    "isAnswer": false
+                },
+                {
+                    "id": 183,
+                    "questionId": 18,
+                    "name": "id",
+                    "isAnswer": true
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "In CSS, “font-size” can be called as __________",
+            "options": [
+                {
+                    "id": 190,
+                    "questionId": 19,
+                    "name": "Selector",
+                    "isAnswer": false
+                },
+                {
+                    "id": 191,
+                    "questionId": 19,
+                    "name": "Rule",
+                    "isAnswer": false
+                },
+                {
+                    "id": 192,
+                    "questionId": 19,
+                    "name": "Property",
+                    "isAnswer": false
+                },
+                {
+                    "id": 193,
+                    "questionId": 19,
+                    "name": "Property-Name",
+                    "isAnswer": true
+                }
+            ]
+        }
+    ]
+}

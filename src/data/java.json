@@ -1,0 +1,307 @@
+{
+    "id": 3,
+    "name": "Java Quiz",
+    "description": "Basic Java Multiple Choice Questions",
+    "questions": [
+        {
+            "id": 10,
+            "name": "The default value of a static integer variable of a class in Java is?",
+            "options": [
+                {
+                    "id": 100,
+                    "questionId": 10,
+                    "name": "0",
+                    "isAnswer": true
+                },
+                {
+                    "id": 101,
+                    "questionId": 10,
+                    "name": "1",
+                    "isAnswer": false
+                },
+                {
+                    "id": 102,
+                    "questionId": 10,
+                    "name": "Garbage value",
+                    "isAnswer": false
+                },
+                {
+                    "id": 103,
+                    "questionId": 10,
+                    "name": "Null",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Multiple inheritance means ",
+            "options": [
+                {
+                    "id": 110,
+                    "questionId": 11,
+                    "name": "more classes inheriting from more super classes",
+                    "isAnswer": false
+                },
+                {
+                    "id": 111,
+                    "questionId": 11,
+                    "name": "one class inheriting from more super classes",
+                    "isAnswer": true
+                },
+                {
+                    "id": 112,
+                    "questionId": 11,
+                    "name": "more classes inheriting from one super class",
+                    "isAnswer": false
+                },
+                {
+                    "id": 113,
+                    "questionId": 11,
+                    "name": " None of the above",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Which statement is not true in java language?",
+            "options": [
+                {
+                    "id": 120,
+                    "questionId": 12,
+                    "name": "A public member of a class can be accessed in all the packages.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 121,
+                    "questionId": 12,
+                    "name": "A private member of a class cannot be accessed from its derived class.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 122,
+                    "questionId": 12,
+                    "name": "A private member of a class cannot be accessed by the methods of the same class.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 123,
+                    "questionId": 12,
+                    "name": "A protected member of a class can be accessed from its derived class.",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "To prevent any method from overriding, we declare the method as,",
+            "options": [
+                {
+                    "id": 130,
+                    "questionId": 13,
+                    "name": "static",
+                    "isAnswer": false
+                },
+                {
+                    "id": 131,
+                    "questionId": 13,
+                    "name": "const",
+                    "isAnswer": false
+                },
+                {
+                    "id": 132,
+                    "questionId": 13,
+                    "name": "final",
+                    "isAnswer": true
+                },
+                {
+                    "id": 133,
+                    "questionId": 13,
+                    "name": "abstract",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Which one of the following is not true?",
+            "options": [
+                {
+                    "id": 140,
+                    "questionId": 14,
+                    "name": "A class containing abstract methods is called an abstract class.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 141,
+                    "questionId": 14,
+                    "name": "An abstract class cannot have non-abstract methods.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 142,
+                    "questionId": 14,
+                    "name": "Abstract methods should be implemented in the derived class.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 143,
+                    "questionId": 14,
+                    "name": "A class must be qualified as ‘abstract’ class, if it contains one abstract method.",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The fields in an interface are implicitly specified as,",
+            "options": [
+                {
+                    "id": 150,
+                    "questionId": 15,
+                    "name": "static only",
+                    "isAnswer": false
+                },
+                {
+                    "id": 151,
+                    "questionId": 15,
+                    "name": "protected",
+                    "isAnswer": false
+                },
+                {
+                    "id": 152,
+                    "questionId": 15,
+                    "name": "private",
+                    "isAnswer": false
+                },
+                {
+                    "id": 153,
+                    "questionId": 15,
+                    "name": " both static and final ",
+                    "isAnswer": true
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": " Which of the following is true?",
+            "options": [
+                {
+                    "id": 160,
+                    "questionId": 16,
+                    "name": "A finally block is executed before the catch block but after the try block.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 161,
+                    "questionId": 16,
+                    "name": "A finally block is executed, only after the catch block is executed.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 162,
+                    "questionId": 16,
+                    "name": "A finally block is executed whether an exception is thrown or not.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 163,
+                    "questionId": 16,
+                    "name": "A finally block is executed, only if an exception occurs.",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "What is byte code in the context of Java?",
+            "options": [
+                {
+                    "id": 170,
+                    "questionId": 17,
+                    "name": "The type of code generated by a Java compiler.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 171,
+                    "questionId": 17,
+                    "name": "The type of code generated by a Java Virtual Machine.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 172,
+                    "questionId": 17,
+                    "name": "It is another name for a Java source file.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 173,
+                    "questionId": 17,
+                    "name": "It is the code written within the instance methods of a class.",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "When an overridden method is called from within a subclass, it will always refer to the version of that method defined by the",
+            "options": [
+                {
+                    "id": 180,
+                    "questionId": 18,
+                    "name": "Super class",
+                    "isAnswer": false
+                },
+                {
+                    "id": 181,
+                    "questionId": 18,
+                    "name": "Subclass",
+                    "isAnswer": true
+                },
+                {
+                    "id": 182,
+                    "questionId": 18,
+                    "name": "Compiler will choose randomly",
+                    "isAnswer": false
+                },
+                {
+                    "id": 183,
+                    "questionId": 18,
+                    "name": "Interpreter will choose randomly",
+                    "isAnswer": false
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "In java, objects are passed as",
+            "options": [
+                {
+                    "id": 190,
+                    "questionId": 19,
+                    "name": "Copy of that object",
+                    "isAnswer": false
+                },
+                {
+                    "id": 191,
+                    "questionId": 19,
+                    "name": "Method called call by value",
+                    "isAnswer": false
+                },
+                {
+                    "id": 192,
+                    "questionId": 19,
+                    "name": "Memory address",
+                    "isAnswer": true
+                },
+                {
+                    "id": 193,
+                    "questionId": 19,
+                    "name": "Constructor",
+                    "isAnswer": false
+                }
+            ]
+        }
+    ]
+}
